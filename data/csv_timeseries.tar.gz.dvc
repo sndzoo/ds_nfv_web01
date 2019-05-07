@@ -1,0 +1,8 @@
+md5: 0d14ab59818dd5c6f94415587493d040
+outs:
+- cache: true
+  md5: b233fe244bf36f7871735558e4cf8aa7
+  metric: false
+  path: data/csv_timeseries.tar.gz
+  persist: false
+wdir: ..
